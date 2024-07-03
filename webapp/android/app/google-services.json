@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269969359176",
+    "project_id": "sngce3-689c8",
+    "storage_bucket": "sngce3-689c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269969359176:android:b14d55ad917081d265f37d",
+        "android_client_info": {
+          "package_name": "com.example.controler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7qP3wTq9zSH3XkA44XBe30H6h1eNuV40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
