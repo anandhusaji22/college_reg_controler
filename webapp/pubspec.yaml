@@ -1,0 +1,30 @@
+name: controler
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^4.15.8
+  csv: 
+  firebase_core: ^2.27.0
+  firebase_database: ^10.4.9
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.0
+  http: ^1.2.0
+  percent_indicator: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/sngce.png
+    - assets/images/sngce.jpg
+
