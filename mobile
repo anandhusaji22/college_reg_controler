@@ -1,0 +1,13 @@
+
+This mobile app is designed to streamline the registration process by allowing users to scan QR codes and register quickly and efficiently. The app is built using Flutter, ensuring a smooth and intuitive user experience across both Android and iOS platforms.
+
+Key Features
+QR Code Scanning: Easily scan QR codes to register for events or check-in.
+User Registration: Collects and stores user information securely.
+Real-Time Updates: Syncs registration data in real-time with the backend.
+User-Friendly Interface: Simple and intuitive design for easy navigation.
+Technologies Used
+Programming Language: Dart
+Framework: Flutter
+QR Code Scanning: Mobile Vision (or any QR code scanning library)
+Backend: Firebase Realtime Database (Aws)
